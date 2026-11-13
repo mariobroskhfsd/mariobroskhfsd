@@ -1,6 +1,12 @@
-testing testing
+<img src="https://jojobeat18.neocities.org/wamseph2.jpg" width="30%px"        align="left"/>
 
-<p  align="left"><img
-src="https://jojobeat18.neocities.org/IMG_7433.png"/><img
+<p  align="center"><img 
+src="https://jojobeat18.neocities.org/stamparthur.gif" width="130" /><img
+src="https://jojobeat18.neocities.org/caesar.png" width="130" /><img
+src="https://jojobeat18.neocities.org/joseph1.png" width="130" /><img
+src="https://jojobeat18.neocities.org/stamptrev.png" width="130" /></p>
 
-<img  width="max"  src="https://jojobeat18.neocities.org/leaves.png"  alt="banner1">
+<p  align="center">
+<img src="https://jojobeat18.neocities.org/vine.gif" width="50%" style="margin-top: 50px;">
+
+<p  align="center"><b><i>blah blah blah blah blah blah lah blah</i></b></p>
